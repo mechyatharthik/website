@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//macOS 15.6.1//EN
+N:Patil;Sumeet;;;
+FN:Sumeet Patil
+EMAIL;type=INTERNET;type=pref:sumeet.patil@blitzindiaengineering.com
+EMAIL;type=INTERNET:sumeetpatil01@gmail.com
+EMAIL;type=INTERNET:Patil@mechanicaloutsourcing.com
+EMAIL;type=INTERNET:sp@makesolu.onmicrosoft.com
+EMAIL;type=INTERNET:dummy.sumeet.patil@gmail.com
+EMAIL;type=INTERNET:mechyatharthik@gmail.com
+EMAIL;type=INTERNET:spmechout@gmail.com
+TEL;type=CELL;type=VOICE;type=pref:+91 8888124106
+TEL;type=CELL;type=VOICE:+91 8830873482
+TEL;type=CELL;type=VOICE:888812
+TEL:7675059223
+ADR;type=pref:;;C/19\, Utkarsha Nagar\, Gadital\, Hadapsar;Pune;Maharashtra;411028;India
+END:VCARD
